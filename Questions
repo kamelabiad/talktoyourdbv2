@@ -1,0 +1,10 @@
+• Which department has the most pending documents?
+• Who are the top 5 employees by number of document edits?
+• What is the monthly trend of document creation by type?
+• Which employees have not accessed any documents in the last 30 days?
+• What is the average salary by department?
+• Which documents have been accessed the most in the last month?
+• How many documents are approved, pending, or rejected by department?
+• What is the distribution of document types (Policy, Report, Memo, Contract)?
+• Who created the most documents in the last quarter?
+• Which employees have access to confidential documents (if you add a “Confidential” DocType)?
